@@ -1,0 +1,4 @@
+
+# ignore all blender project files
+*.blend
+*.blend[0-9]*
