@@ -23,3 +23,5 @@ A top menu is added where pip can be called from. Simply put in the package name
 #### Status
 
 I am currently not planning on developing this any further as it does what I want it to do, but feel free to ask questions and let me know when something is not working!
+
+The script is untested for mac and linux so I don't expect it to work out of the box. At the very least you'd need to change the paths and possibly the `subprocess` calls.
